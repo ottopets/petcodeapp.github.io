@@ -7,19 +7,21 @@ sites:
   - name: PetCode Landing Page
     url: https://petcodeusa.com
   - name: PetCode Backend
-    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"97B4GH"){id}}
+    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"genesis"){id}}
   - name: PetCode GraphQL
-    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"97B4GH"){id}}
+    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"genesis"){id}}
 assignees: # Users to assign downtime issues (optional)
   - rishiosaur
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.petcodeusa.com 
+  
 
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://petcodeusa.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fpetcode-b1e6e%2Fo%2Fpetcode-logo.png%3Falt%3Dmedia&w=384&q=75
+  logoUrl: https://i.ibb.co/vQ8f1Xg/icon-512x512.png
+  name: PetCode
 
   introTitle: "**PetCode** is the ultimate pet management system, bringing together health, safety, discovery and logging."
   introMessage: This status page documents uptime for all of our servers, databases, and services that our live mobile applications and web portals use, along with any scheduled maintenance times and other issues.
