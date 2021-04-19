@@ -7,9 +7,9 @@ sites:
   - name: PetCode Landing Page
     url: https://petcodeusa.com
   - name: PetCode Backend
-    url: https://api.backend.petcodeusa.com
+    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"97B4GH"){id}}
   - name: PetCode GraphQL
-    url: https://api.backend.petcodeusa.com
+    url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"97B4GH"){id}}
 assignees: # Users to assign downtime issues (optional)
   - rishiosaur
 
