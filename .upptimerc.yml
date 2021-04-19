@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.petcodeusa.com 
 
-  baseUrl: /status 
+  baseUrl: /
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://petcodeusa.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fpetcode-b1e6e%2Fo%2Fpetcode-logo.png%3Falt%3Dmedia&w=384&q=75
