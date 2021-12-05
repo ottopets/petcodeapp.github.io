@@ -1,7 +1,7 @@
 url: https://api.backend.petcodeusa.com/graphql?query={pet(id:"genesis"){id}}
-status: up
-code: 200
-responseTime: 30
-lastUpdated: 2021-12-04T23:13:52.835Z
+status: down
+code: 502
+responseTime: 13
+lastUpdated: 2021-12-05T04:32:36.983Z
 startTime: Mon Apr 19 2021 19:44:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
