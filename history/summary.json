@@ -40,17 +40,17 @@
     "url": "https://api.backend.petcodeusa.com/graphql?query={pet(id:\"genesis\"){id}}",
     "icon": "https://favicons.githubusercontent.com/api.backend.petcodeusa.com",
     "slug": "pet-code-graph-ql",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 13901,
-    "timeWeek": 2191,
-    "timeMonth": 831,
-    "timeYear": 122,
+    "time": 111,
+    "timeDay": 9881,
+    "timeWeek": 2166,
+    "timeMonth": 858,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   }
 ]
